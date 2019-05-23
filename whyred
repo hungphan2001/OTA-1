@@ -15,16 +15,16 @@
     },
     {
      "title":"Download Latest Build",
-     "summary":"ion-1.0.f-whyred-20190507-Release.zip",
-     "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/xiaomi\/whyred\/ion-1.0.f-whyred-20190507-Release.zip\/download"
+     "summary":"ion-1.1.A-whyred-20190523-Release.zip",
+     "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/xiaomi\/whyred\/ion-1.1.A-whyred-20190523-Release.zip\/download"
     }
     ],
     "developer":"AnkitGourav",
     "developer_url":"https:\/\/t.me\/Havion",
     "forum_url":"https:\/\/t.me\/Havion",
-    "build_date":"20190507-1809",
-    "filename":"ion-1.0.f-whyred-20190507-Release.zip",
-    "filesize":"1075990918",
-    "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/xiaomi\/whyred\/ion-1.0.f-whyred-20190507-Release.zip\/download",
-    "md5":"eccd5551fd952a643ae8fad6e431deb7"
+    "build_date":"20190523-1556",
+    "filename":"ion-1.1.A-whyred-20190523-Release.zip",
+    "filesize":"1077591868",
+    "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/xiaomi\/whyred\/ion-1.1.A-whyred-20190523-Release.zip\/download",
+    "md5":"376e04689cba810e69d8b721b82b833c"
 }
