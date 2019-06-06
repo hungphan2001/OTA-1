@@ -1,0 +1,23 @@
+{
+    "website_url":"https:\/\/sourceforge.net\/projects\/i-o-n\/",
+    "news_url":"https:\/\/t.me\/ion_OS",
+    "addons":
+    [
+    {
+     "title":"Magisk",
+     "summary":"Systemless Root Installer",
+     "url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"
+    },
+    {
+     "title":"Download Latest Build",
+     "summary":"ion-1.1.B-sanders-20190606-Release.zip",
+     "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/motorola\/sanders\/ion-1.1.B-sanders-20190606-Release.zip\/download"
+    }
+    ],
+    "developer":"SyedSajid",
+    "developer_url":"https:\/\/t.me\/ISyedSajid",
+    "build_date":"20190606-1912",
+    "filename":"ion-1.1.B-sanders-20190606-Release.zip",
+    "filesize":"984298291.2",
+    "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/motorola\/sanders\/ion-1.1.B-sanders-20190606-Release.zip\/download",
+    "md5":"44f40325b7347bd2c5a7b69c9122b85f"
