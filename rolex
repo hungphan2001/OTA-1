@@ -1,0 +1,20 @@
+{
+    "website_url":"https:\/\/sourceforge.net\/projects\/i-o-n\/",
+    "news_url":"https:\/\/t.me\/ion_OS",
+    "addons":
+    [
+    {
+     "title":"Download Latest Build",
+     "summary":"ion-1.1.C-rolex-20190616-1757-Release.zip",
+     "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/xiaomi\/rolex\/ion-1.1.C-rolex-20190616-1757-Release.zip\/download"
+    }
+    ],
+    "developer":"Aditya",
+    "developer_url":"https:\/\/t.me\/adi153",
+    "forum_url":"https:\/\/t.me\/dev_ion",
+    "build_date":"20190616-1757",
+    "filename":"ion-1.1.C-rolex-20190616-1757-Release.zip",
+    "filesize":"977342639",
+    "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/xiaomi\/rolex\/ion-1.1.C-rolex-20190616-1757-Release.zip\/download",
+    "md5":"56b02576012b270fc140f7c924b95d75"
+}
