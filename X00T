@@ -1,0 +1,24 @@
+{
+    "website_url":"https:\/\/sourceforge.net\/projects\/i-o-n\/",
+    "news_url":"https:\/\/t.me\/ion_OS",
+    "addons":
+    [
+    {
+     "title":"Magisk",
+     "summary":"Systemless Root Installer",
+     "url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"
+    },
+    {
+     "title":"Download Latest Build",
+     "summary":"ion-1.1.C-X00T-20190616-1729-Release.zip",
+     "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/asus\/X00TD\/ion-1.1.C-X00T-20190616-1729-Release.zip\/download"
+    }
+    ],
+    "developer":"PranavKpr",
+    "developer_url":"https:\/\/t.me\/pk965",
+    "build_date":"20190616-1729",
+    "filename":"ion-1.1.C-X00T-20190616-1729-Release.zip",
+    "filesize":"979500000",
+    "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/asus\/X00TD\/ion-1.1.C-X00T-20190616-1729-Release.zip\/download",
+    "md5":"1021c0b4355e1631915741dee98af67c"
+}
