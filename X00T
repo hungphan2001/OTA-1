@@ -5,15 +5,15 @@
     [
    {
      "title":"Download Latest Build",
-     "summary":"ion-1.1.C-X00T-20190616-1729-Release.zip",
-     "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/asus\/X00T\/ion-1.1.C-X00T-20190616-1729-Release.zip\/download"
+     "summary":"ion-1.1.C-X00T-20190619-1036-Release.zip",
+     "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/asus\/X00T\/ion-1.1.C-X00T-20190619-1036-Release.zip\/download"
     }
     ],
     "developer":"PranavKpr",
     "developer_url":"https:\/\/t.me\/pk965",
-    "build_date":"20190616-1729",
-    "filename":"ion-1.1.C-X00T-20190616-1729-Release.zip",
-    "filesize":"979500000",
-    "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/asus\/X00T\/ion-1.1.C-X00T-20190616-1729-Release.zip\/download",
-    "md5":"1021c0b4355e1631915741dee98af67c"
+    "build_date":"20190619-1036",
+    "filename":"ion-1.1.C-X00T-20190619-1036-Release.zip",
+    "filesize":"980400000",
+    "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/asus\/X00T\/ion-1.1.C-X00T-20190619-1036-Release.zip\/download",
+    "md5":"840796b01537f87acd7fb031834466d4"
 }
