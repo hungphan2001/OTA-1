@@ -5,16 +5,16 @@
     [
     {
      "title":"Download Latest Build",
-     "summary":"ion-1.2.a-rosy-20190707-1552-Release.zip",
-     "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/xiaomi\/rosy\/ion-1.2.a-rosy-20190707-1552-Release.zip\/download"
+     "summary":"ion-1.2.c-rosy-20190724-1207-Release.zip",
+     "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/xiaomi\/rosy\/ion-1.2.c-rosy-20190724-1207-Release.zip\/download"
     }
     ],
     "developer":"Mithravindan",
     "developer_url":"https:\/\/t.me\/mithravindan",
     "forum_url":"https:\/\/t.me\/dev_ion",
-    "build_date":"20190627-0117",
-    "filename":"ion-1.2.a-rosy-20190707-1552-Release.zip",
-    "filesize":"1009678216",
-    "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/xiaomi\/rosy\/ion-1.2.a-rosy-20190707-1552-Release.zip\/download",
-    "md5":"4e2b38e3e729e67001a35961c9ff35e8"
+    "build_date":"20190724-1207",
+    "filename":"ion-1.2.c-rosy-20190724-1207-Release.zip",
+    "filesize":"980612213",
+    "url":"https:\/\/sourceforge.net\/projects\/i-o-n\/files\/device\/xiaomi\/rosy\/ion-1.2.c-rosy-20190724-1207-Release.zip\/download",
+    "md5":"d91dc16e36aedf617fe214cfc7849925"
 }
