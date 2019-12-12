@@ -1,16 +1,16 @@
 {
   "error": false,
-  "id": "b2a83561a00022dc12847939990b273607fed6c556fac55ed86ffb5d4bcbf23f",
-  "filename": "ion-2.1.b-whyred-20191124-0626-OFFICIAL-Release.zip",
-  "datetime": 1574576658,
-  "version": "v2.1.b",
-  "size": 1321094201,
-  "url": "https://sourceforge.net/projects/i-o-n/files/device/xiaomi/whyred/ion-2.1.b-whyred-20191124-0626-OFFICIAL-Release.zip/download",
-  "filehash": "722160da4ae76a288f71b2fbdbc2576d",
+  "id": "a2686841a78e911b31fafdd5f74cc8af76abc7106ff397a69500a71b2f063636",
+  "filename": "ion-2.2.a-whyred-20191212-1510-OFFICIAL-Release.zip",
+  "datetime": 1576163346,
+  "version": "v2.2.a",
+  "size": 1365357507,
+  "url": "https://sourceforge.net/projects/i-o-n/files/device/xiaomi/whyred/ion-2.2.a-whyred-20191212-1510-OFFICIAL-Release.zip/download",
+  "filehash": "4d165fecebbd61d650a6d06a3a0bd957",
   "website_url": "https://sourceforge.net/projects/i-o-n/files/device",
   "news_url": "https://t.me/ion_OS",
   "donate_url": "https://Paypal.me/AnkitGourav",
   "maintainer": "AnkitGourav",
   "maintainer_url": "https://github.com/Ankit-Gourav",
-  "forum_url": "https://t.me/i_o_n"
+  "forum_url": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-ion-2-1-b-t4008763"
 }
