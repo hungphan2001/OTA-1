@@ -2,14 +2,20 @@
 ion-2.2.b
 
  Changelog:
-- Added Edge Light Customizations
-- GamingMode: Added option to disable all type of headsup notifications
-- Added option to disable notification vibration
-- Added List view animations & interpolators
-- Added ADB over network
-- Added Running Services to QS panel footer
-- Added toggle to disable user icon from QS panel footer
-- Fixed old style mobile data type indicator
-- Fixed notification LED
-- other fixes & improvements
-- Updated some GApps
+- January Security Patch
+- Added Lockscreen digital & Sammy clock style
+- Added option to select VoLTE icons
+- Added version info while installing apps
+- Added Ambient Visualizer
+- Added QS header image
+- Added option to blink flashlight on incoming calls
+- Added Square & Cylinderical icon shapes
+- Added option to hide pill in full gestural nav mode
+- Added option to hide lock icon on lockscreen
+- Added option to change header image height
+- Added Russian translation (by @Alonzo)
+- Fixed battery estimate
+- Improved QS Panel
+- Improved & Added new brightness slider
+- updated some GApps
+- other bug fixes & improvements
