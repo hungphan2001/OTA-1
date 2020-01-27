@@ -1,21 +1,28 @@
 ^ion
-ion-2.3.a
+ion-2.3.b
 
 Changelog:
-- January Security Patch
-- Added Lockscreen digital & Sammy clock style
-- Added option to select VoLTE icons
-- Added version info while installing apps
-- Added Ambient Visualizer
-- Added QS header image
-- Added option to blink flashlight on incoming calls
-- Added Square & Cylinderical icon shapes
-- Added option to hide pill in full gestural nav mode
-- Added option to hide lock icon on lockscreen
-- Added option to change header image height
-- Added Russian translation (by @Alonzo)
-- Fixed battery estimate
-- Improved QS Panel
-- Improved & Added new brightness slider
+- Added RGB Accent Color picker
+- Added ARGB QS header color picker
+- Added RGB QS Panel Color picker
+- Added option to hide Lockscreen Clock & Date
+- Added Burn-in Protection toggle
+- Added option to allow to use VPN through tethering
+- Added QS System Info
+- Added Lockscreen Date styles
+- Allow selecting Lockscreen art blur to 0
+- Fixed Settings crash in some cases
+- Fixed data usage tile
+- Fixed SystemUI crash in some cases
+- Improved QS panel layout
+- Improved Sammy clock style
+- Improved Network Traffic Indicator
+- Improved Privacy Indicator
+- Enabled PermissionBar Chart in Settings
+- Removed Google Recorder
 - updated some GApps
+- updated back gesture height values
 - other bug fixes & improvements
+Changelog device:
+- Add Adding Some Rules Selinux
+- Fix APN
