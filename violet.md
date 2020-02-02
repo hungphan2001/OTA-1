@@ -1,20 +1,35 @@
-^ion
+^ion 
 
-ion-2.2.b
- Changelog:  
-- Added Edge Light Customizations 
-- GamingMode: Added option to disable all type of headsup notifications 
-- Added option to disable notification vibration 
-- Added List view animations & interpolators 
-- Added ADB over network 
-- Added Running Services to QS panel footer 
-- Added toggle to disable user icon from QS panel footer 
-- Fixed old style mobile data type indicator 
-- Fixed notification LED 
-- other fixes & improvements 
-- Updated some GApps
+ion-2.3.b
+ Changelog: 
+- Added RGB Accent Color picker 
+- Added ARGB QS header color picker 
+- Added RGB QS Panel Color picker 
+- Added option to hide Lockscreen Clock & Date 
+- Added FOD icon picker 
+- Added Burn-in Protection toggle 
+- Added option to allow to use VPN through tethering 
+- Added option to hide cutout 
+- Added Lockscreen Date styles 
+- Allow selecting Lockscreen art blur to 0 
+- Fixed Settings crash in some cases 
+- Fixed data usage tile 
+- Fixed SystemUI crash in some cases 
+- Improved QS panel layout 
+- Improved Sammy clock style 
+- Improved Network Traffic Indicator 
+- Improved Privacy Indicator 
+- Enabled PermissionBar Chart in Settings 
+- Removed Google Recorder 
+- updated some GApps 
+- updated back gesture height values 
 
-Device Changelog: 
-- Inbuilt gcam
-- Changeback to Pixel-kernel
-- Performance improvement 
+
+Device Changes: 
+- Playground support added 
+- Dirac support added 
+- Beautified rounded corner 
+- Custom modem added 
+- Add smart reply for all apps 
+- Adreno blobs updated
+- Increase touch boost duration
