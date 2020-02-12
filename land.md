@@ -1,28 +1,44 @@
 ^ion
-ion-2.3.b
+ion-2.4.a
 
 Changelog:
-- Added RGB Accent Color picker
-- Added ARGB QS header color picker
-- Added RGB QS Panel Color picker
-- Added option to hide Lockscreen Clock & Date
-- Added Burn-in Protection toggle
-- Added option to allow to use VPN through tethering
-- Added QS System Info
-- Added Lockscreen Date styles
-- Allow selecting Lockscreen art blur to 0
-- Fixed Settings crash in some cases
-- Fixed data usage tile
-- Fixed SystemUI crash in some cases
-- Improved QS panel layout
-- Improved Sammy clock style
-- Improved Network Traffic Indicator
-- Improved Privacy Indicator
-- Enabled PermissionBar Chart in Settings
-- Removed Google Recorder
-- updated some GApps
-- updated back gesture height values
+- February Security Patch
+- Added Statusbar clock custom color
+- Added Lockscreen ownerinfo fonts & size
+- Added extended screenshot
+- Added some more Lockscreen clock styles
+- Added Source sans pro font style
+- Added new custom text clock
+- Added custom text clock customizations
+- Added new improved Ambient Edge Pulse
+- Added more edge pulse customizations
+- Added Dynamic Immersive mode tile
+- Fixed IME selector toggle
+- Improved screenshot tile
+- Improved partial screenshot
+- Improved Lockscreen weather
 - other bug fixes & improvements
-Changelog device:
-- Add Adding Some Rules Selinux
-- Fix APN
+
+Device:
+- Fix Goodix FP (need patch)
+- Update QTI Bluetooth from LA.UM.8.6.r1-02600-89xx.0
+- Update GPS from LA.UM.8.6.r1-02600-89xx.0
+- Update peripheral manager from LA.UM.8.6.r1-02600-89xx.0
+- Update Time from LA.UM.8.6.r1-02600-89xx.0
+- Update CNE/DPM from LA.UM.8.6.r1-02900-89xx.0
+- Update DRM/Widevine/TEE from LA.UM.8.6.r1-02600-89xx.0
+- Update thermal blobs from LA.UM.8.6.r1-02600-89xx.0
+- Update WiFi Display from LA.UM.8.6.r1-02900-89xx.0
+- Partially Update QMI/Radio/IMS blobs from LA.UM.8.6.r1-02900-89xx.0
+- Update graphics stack from LA.UM.8.6.r1-02900-89xx.0
+- Update Media from LA.UM.8.6.r1-02900-89xx.0
+- Update perf blobs from LA.UM.8.6.r1-02600-89xx.0
+- Remove hw_acc effect
+- Don't advertise vorbis offloading support
+- Fix random glitshes green
+- Enable GL comp backpressure
+- Update init from LA.UM.8.6.r1-02900-89xx.0
+- Update cpusets & Add parameters for sound control
+- Update perfboostsconfig and Add perfconfigstore
+- Update powerhint from olive-user-9-PKQ1.190319.001-V10.3.5.0.PC
+- Full Selinux Enforce
