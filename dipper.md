@@ -1,12 +1,20 @@
 ^ion
+ion-2.4.a
 
-ion-2.3.b
- Changelog:  
-- Enable Smart Pixels
-- fix rounded corners 
-
-Device Changelog: 
-- Twisted Kernel v20
-- add updatable_apex.mk
-- remove fingerprint scanner vibration 
-- OTA
+ Changelog:
+- February Security Patch
+- Added Statusbar clock custom color
+- Added Lockscreen ownerinfo fonts & size
+- Added extended screenshot
+- Added some more Lockscreen clock styles
+- Added Source sans pro font style
+- Added new custom text clock
+- Added custom text clock customizations
+- Added new improved Ambient Edge Pulse
+- Added more edge pulse customizations
+- Added Dynamic Immersive mode tile
+- Fixed IME selector toggle
+- Improved screenshot tile
+- Improved partial screenshot
+- Improved Lockscreen weather
+- other bug fixes & improvements
