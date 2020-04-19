@@ -1,29 +1,25 @@
 ^ion 
 
-ion-2.4.a
- Changelog: 
+ion-2.5.a
 
-- February Security Patch 
-- Added Statusbar clock custom color 
-- Added Lockscreen ownerinfo fonts & size 
-- Added extended screenshot 
-- Added some more Lockscreen clock styles 
-- Added Source sans pro font style 
-- Added new custom text clock 
-- Added custom text clock customizations 
-- Added new improved Ambient Edge Pulse 
-- Added more edge pulse customizations 
-- Added Dynamic Immersive mode tile 
-- Fixed IME selector toggle 
-- Improved screenshot tile 
-- Improved partial screenshot 
-- Improved Lockscreen weather
-- other bug fixes & improvements
+Changelog: 
+- April Security Patch 
+- Added Screen Stabilization 
+- Added option to block back gesture on IME 
+- Added haptic feedback on back gesture 
+- Added Android R style screen record dialog 
+- Added panel for some QS tiles 
+- Added Ringtone vibration pattern 
+- Added FPS info tile 
+- Fixed overlapping Carrier label & heads up text 
+- Fixed SystemUI crash on high resolution QS header images 
+- Fixed custom lockscreen wallpaper 
+- Improved QS Tiles layout 
+- Updated GApps
+- Other bug fixes & improvements
 
 Device Changes: 
-- CTS failes fixed
-- Enabled volte/vowifi for more carriers
-- System info now enabled
-- Fixed chrome crash
-- Kernel Changed to Azure latest thanks to @panchajanya
-- More smoothness added
+- Back to enforced
+- Azure Kernel upstreamed
+- Removed Gcam 
+- Removed Custom modem assertion
