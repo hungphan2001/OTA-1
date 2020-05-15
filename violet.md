@@ -1,25 +1,22 @@
 ^ion 
 
-ion-2.5.a
+ion-2.6.a
 
 Changelog: 
-- April Security Patch 
-- Added Screen Stabilization 
-- Added option to block back gesture on IME 
-- Added haptic feedback on back gesture 
-- Added Android R style screen record dialog 
-- Added panel for some QS tiles 
-- Added Ringtone vibration pattern 
-- Added FPS info tile 
-- Fixed overlapping Carrier label & heads up text 
-- Fixed SystemUI crash on high resolution QS header images 
-- Fixed custom lockscreen wallpaper 
-- Improved QS Tiles layout 
-- Updated GApps
-- Other bug fixes & improvements
 
-Device Changes: 
-- Back to enforced
+- May Security Patch
+- Added battery bar
+- Added in-call vibration options
+- Added internal audio recording to screenrecord
+- Added option to select bitrate to screenrecord
+- Added R style notification section headers
+- Added AOSP accents
+- updated GApps
+
+
+Device Changelogs:
+
+- Added ANXCamera(v180)
 - Azure Kernel upstreamed
-- Removed Gcam 
-- Removed Custom modem assertion
+- Miscellaneous audio improvement
+- Updated Build FP to May patch
