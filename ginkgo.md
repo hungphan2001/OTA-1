@@ -11,3 +11,12 @@ ion-2.8.a
 - Fixed QS blur when no notificaions are showing
 - updated GApps
 - other bug fixes & improvements
+
+ Device Changelog:
+- July Coral FP
+- Fixed DT2W
+- Fixed smart charging
+- Fixed long press torch
+- FM radio fixed
+- Selinux  enforci=ing + user
+- WFD works
