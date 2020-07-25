@@ -1,0 +1,10 @@
+Device changelog
+
+2.8.a
+- July Coral FP
+- Fixed DT2W
+- Fixed smart charging
+- Fixed long press torch
+- FM radio fixed
+- Selinux  enforci=ing + user
+- WFD works
